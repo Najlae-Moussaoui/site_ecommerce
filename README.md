@@ -1,6 +1,8 @@
 # site_ecommerce
 Description du Projet
 Ce projet consiste en la création d'un site e-commerce fonctionnel utilisant WordPress et WooCommerce. Le site propose une navigation intuitive, des fiches produits détaillées et une expérience utilisateur fluide.
+VOICI UN LIEN VERS LE PROJET COMPLETE ET LA BASES DE DONNES:
+https://drive.google.com/drive/folders/1uBgTzzo0PRX7SbqnzVeRs2qwnhzqDTEG?usp=sharing
 
 Prérequis Techniques
 Avant de commencer, assure-toi d'avoir les éléments suivants :
